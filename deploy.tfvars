@@ -1,0 +1,5 @@
+RG_name = ""
+location = ""
+LAW = ""
+sku = ""
+retention = "" 
